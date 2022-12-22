@@ -1,0 +1,27 @@
+html {
+  /* COLOR PALETTE */
+  --white: #ffffff;
+
+  --primary-1: #0e2356;
+  --primary-2: #566589;
+  --primary-3: #8691aa;
+  --primary-4: #cfd3dd;
+  --primary-5: #f3f4f7;
+
+  --secondary-1: #00a3be;
+  --secondary-2: #4cbfd1;
+  --secondary-3: #80d1d2;
+  --secondary-4: #ccedf2;
+  --secondary-5: #f2fafc;
+
+  /* FONT SIZES */
+  --font-xxl: '85px';
+  --font-xl: '60px';
+  --font-l: '48px';
+  --font-ml: '30px';
+  --font-m: '24px';
+  --font-ms: '18px';
+  --font-s: '16px';
+  --font-xs: '14px';
+  --font-xxs: '12px';
+}

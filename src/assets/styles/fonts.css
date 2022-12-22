@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'OutfitSemiBold';
+  src: local('OutfitSemiBold'),
+    url('../fonts/Outfit-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'OutfitRegular';
+  src: local('OutfitRegular'),
+    url('../fonts/Outfit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'OutfitLight';
+  src: local('OutfitLight'), url('../fonts/Outfit-Light.ttf') format('truetype');
+}

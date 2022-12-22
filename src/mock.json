@@ -1,0 +1,3822 @@
+[
+  {
+    "poly": "STOK",
+    "prenom": "Stéphane",
+    "nom": "KOMAN ",
+    "tribu": "product-design",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "FAKA",
+    "prenom": "Fatima",
+    "nom": "KAAOUAN",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "ABBO",
+    "prenom": "Bognoua",
+    "nom": "ABDOULAYE",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "participation formation avec repas inclus",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "0.875", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "0.875", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "0.875", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "0.875", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "0.875", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 15.625,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "HANA",
+    "prenom": "Anhara",
+    "nom": "AKTER",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "NOFE",
+    "prenom": "Fred",
+    "nom": "NOBRE",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "OMHA",
+    "prenom": "Omar",
+    "nom": "HABIBOU",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 9,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "CHAX",
+    "prenom": "Xavier",
+    "nom": "CHASSANG",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "MEDI",
+    "prenom": "Mélanie",
+    "nom": "DINOT",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "CARK",
+    "prenom": "Kevin",
+    "nom": "CARBETI",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.875",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 15,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "MEAK",
+    "prenom": "Mehdi",
+    "nom": "AKRIM",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-12": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-13": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-14": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-15": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "JUMA",
+    "prenom": "Julien",
+    "nom": "SZPYTMA",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-06": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-07": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-08": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-12": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-13": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-14": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-15": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-16": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "JEPH",
+    "prenom": "Jeannory",
+    "nom": "PHOU",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "dev back",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "585.0"
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 10,
+    "tauxDActivite": 50
+  },
+  {
+    "poly": "FLOM",
+    "prenom": "Florent",
+    "nom": "MONDELICE",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "LEKE",
+    "prenom": "Kevin",
+    "nom": "LE FRANC",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "participation formation sans repas",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "DEIS",
+    "prenom": "Issam",
+    "nom": "DERRAR",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "837.0"
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 15.5,
+    "nombreDeJoursFactures": 8,
+    "tauxDActivite": 52
+  },
+  {
+    "poly": "BUAN",
+    "prenom": "Antoine",
+    "nom": "BUZAUD",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "GAFI",
+    "prenom": "Gauthier",
+    "nom": "FIORENTINO",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "dev fullstack",
+          "facturable": true,
+          "duree": "0.875",
+          "tjm": "689.0"
+        },
+        {
+          "nom": "dev front",
+          "facturable": true,
+          "duree": "0.125",
+          "tjm": "780.0"
+        }
+      ],
+      "2022-12-06": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-07": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-08": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-19": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-20": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-21": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-22": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-23": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 5,
+    "nombreDeJoursFactures": 1,
+    "tauxDActivite": 20
+  },
+  {
+    "poly": "SATL",
+    "prenom": "Sami",
+    "nom": "TLILI",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 19,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "BEMO",
+    "prenom": "Mohamed",
+    "nom": "BENNIS",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-06": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-07": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-08": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-12": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-13": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-14": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-15": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-16": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "GUIM",
+    "prenom": "Guillaume",
+    "nom": "MARCQ",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-20": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-21": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-22": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-23": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "QUIB",
+    "prenom": "Brigitte",
+    "nom": "QUINTON",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-08": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-16": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-23": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "NIMA",
+    "prenom": "Nicolas",
+    "nom": "Martinho",
+    "tribu": "skool25",
+    "cra": {
+      "2022-12-05": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-08": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-14": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-19": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-23": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "QUEN",
+    "prenom": "Quentin",
+    "nom": "Mino",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "architecte",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1346.81690140845"
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "architecte",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1346.81690140845"
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "architecte",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1346.81690140845"
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "architecte",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1346.81690140845"
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "architecte",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1346.81690140845"
+        }
+      ],
+      "2022-12-12": [
+        { "nom": "presales", "facturable": false, "duree": "1.0", "tjm": "0.0" }
+      ],
+      "2022-12-13": [
+        { "nom": "presales", "facturable": false, "duree": "1.0", "tjm": "0.0" }
+      ],
+      "2022-12-14": [
+        { "nom": "presales", "facturable": false, "duree": "1.0", "tjm": "0.0" }
+      ],
+      "2022-12-15": [
+        { "nom": "presales", "facturable": false, "duree": "1.0", "tjm": "0.0" }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "woapi - journée tribu",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": "0.0"
+        }
+      ],
+      "2022-12-19": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-20": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-21": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-22": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-23": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 10,
+    "nombreDeJoursFactures": 5,
+    "tauxDActivite": 50
+  },
+  {
+    "poly": "LEE",
+    "prenom": "Thierry",
+    "nom": "Lee",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "0.5",
+          "tjm": "1300.0"
+        },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1300.0"
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1300.0"
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1300.0"
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "1.0",
+          "tjm": "1300.0"
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        {
+          "nom": "mob - journée tribu",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": "0.0"
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        },
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "0.5",
+          "tjm": "1300.0"
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "dev mobile",
+          "facturable": true,
+          "duree": "0.5",
+          "tjm": "1300.0"
+        },
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "0.5",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 15,
+    "nombreDeJoursFactures": 5.5,
+    "tauxDActivite": 37
+  },
+  {
+    "poly": "NBO",
+    "prenom": "Nicolas",
+    "nom": "Bordier",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-26": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-27": [
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null },
+        { "nom": "absence", "facturable": false, "duree": "0.5", "tjm": null }
+      ],
+      "2022-12-28": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-29": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ],
+      "2022-12-30": [
+        { "nom": "absence", "facturable": false, "duree": "1.0", "tjm": null }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 5,
+    "tauxDActiviteCongesExclus": 0.5,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "SRE",
+    "prenom": "Simon",
+    "nom": "Renoult",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  },
+  {
+    "poly": "WWO",
+    "prenom": "Wojciech",
+    "nom": "Wojcik",
+    "tribu": "software-engineering",
+    "cra": {
+      "2022-12-05": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-06": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-07": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-08": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-09": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-12": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-13": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-14": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-15": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-16": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-19": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-20": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-21": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-22": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-23": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-26": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-27": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-28": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-29": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ],
+      "2022-12-30": [
+        {
+          "nom": "intercontrat",
+          "facturable": false,
+          "duree": "1.0",
+          "tjm": null
+        }
+      ]
+    },
+    "tauxDActiviteCongesInclus": 20,
+    "tauxDActiviteCongesExclus": 20,
+    "nombreDeJoursFactures": 0,
+    "tauxDActivite": 0
+  }
+]
