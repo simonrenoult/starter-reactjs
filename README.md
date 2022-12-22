@@ -1,4 +1,4 @@
-# Starter TypeScript
+# Starter ReactJS
 
 ## Prerequisites
 
